@@ -4,7 +4,7 @@
 
 Please download the datasets from benow URL,
 
-Dataset1: [//URL//](https://ieee-dataport.org/documents/metaverse-network-traffic-classification-and-prediction)
+Dataset1: https://ieee-dataport.org/documents/metaverse-network-traffic-classification-and-prediction
 
 Dataset2: https://www.kaggle.com/datasets/szhao2020/vr-gaming-network-traffic?resource=download
 
